@@ -106,7 +106,36 @@
 </teiHeader>
 <text>
 <body>
-<p>Hier kommt Ihr Text</p>
+<p>
+<lb/>129
+<lb/>Das Grabfeld, dessen bedeutendste Sagen die folgenden
+<lb/>Blätter enthalten, ist nach seinem Umfang und seinen Gren¬
+<lb/>zen schwer abzumarken. In der Einleitung dieses Buches
+<lb/>ist bereits darauf hingedeutet, in welchem Umfang wir
+<lb/>diese ausgedehnte fränkische Provinz in Bezug auf ihre
+<lb/>Volkssagen auszubeuten gesonnen sind. Wir machen dabei
+<lb/>zwischen dem Grabfeld und dem alten Saalgau keinen
+<lb/>Unterschied, sondern ziehen den Letztern theilweise mit in den
+<lb/>großen Kreis, da die spätere Zeit ihn ohnehin diesem
+<lb/>beigesellte, während nach den Gaukarten nicht nur das
+<lb/>ganze <placeName ref="http://d-nb.info/gnd/4049862-1">Rhöngebirge</placeName>, sondern auch alles Land bis zur
+<lb/>Höhe des Thüringerwaldkammes, bis zur Sorbengrenze
+<lb/>und zum Banzgau, alles, was dem Laufe des Mains zur
+<lb/>Rechten gelegen, sowie bis zum Werrngau und zum
+<lb/>Speſſartwalde, dem weſtlichen und öſtlichen Grabfeld eignet.
+<lb/>Ein verdienter fränkischer Historiker, <persName ref="http://d-nb.info/gnd/118610694">I. K. Bundschuh</persName>,
+<lb/>bezeichnet die Grenzen des östlichen Grabfeldes folgen¬
+<lb/>dermaßen:*)
+<lb/>„Gegen Abend die Alster oder Ulster nebst den Rhön¬
+<lb/>gebirgen. Sie machen nebst der fränkischen Saale die Grenz-
+<lb/>scheide zwischen dem östlichen und westlichen Grabfelde. Bei
+<lb/>Kreuzburg (Philippsthal) wurde das östliche Grabfeld
+<lb/>durch einen Theil der Werra von der Thüringischen
+<lb/>Provinz gesondert. Von da lief gegen Mitternacht
+<lb/>*) Grundriß zum Vortrage der vaterländischen Erdbeschrei¬
+<lb/>bung und Geschichte in Franken. Schweinfurt. 1806.
+<lb/>Sagenschatz. 1. Theil.<note type="editorial">Die Publikation ist wenig vertrauenswürdig.</note>
+</p>
 </body>
 </text>
 </TEI>
